@@ -1,3 +1,4 @@
 Red is the first color of the rainbow.
-Oraage is the second color of the rainbow
-Yellow is the thir color of the rainbow.
+Oraage is the second color of the rainbow.
+Yellow is the thirth color of the rainbow.
+Green is the fourth color of the rainbow.
